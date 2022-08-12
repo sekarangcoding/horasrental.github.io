@@ -694,7 +694,7 @@ section {
 
 .armada .member span {
   display: block;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .armada .member ul {
@@ -834,6 +834,7 @@ section {
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
+  font-family: "Raleway", sans-serif;
   font-size: 14px;
   color: #65747f;
 }
