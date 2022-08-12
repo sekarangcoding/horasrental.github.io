@@ -843,13 +843,6 @@ section {
   color: #fff;
 }
 
-/* .contact .maps {
-  position: relative;
-  text-align: right;
-  height: 500px;
-  width: 925px;
-} */
-
 .contact .maps {
   position: relative;
   padding-bottom: 75%;
@@ -864,19 +857,6 @@ section {
   width: 100% !important;
   height: 100% !important;
 }
-
-/* .contact .maps_canvas {
-  overflow: hidden;
-  background: none !important;
-  height: 500px;
-  width: 925px;
-} */
-
-/* .contact .maps_canvas  {
-  border: 0;
-  width: 925px;
-  height: 500px;
-} */
 
 @-webkit-keyframes animate-loading {
   0% {
